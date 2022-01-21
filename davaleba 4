@@ -1,0 +1,19 @@
+# 1
+text = "hello"
+lenght = len[text]
+last=lenght[-1]
+print(last)
+prin
+
+
+
+
+
+
+
+
+
+
+
+
+
