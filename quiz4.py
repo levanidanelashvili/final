@@ -150,4 +150,3 @@
 # print("Cherbourg-ში ამოვიდა", Cherbourg, "მგზავრი")
 # print("Southampton-ში ამოვიდა", Southampton, "მგზავრი")
 # file.close()
-davaleba kargadaa
